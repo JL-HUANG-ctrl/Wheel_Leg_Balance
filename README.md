@@ -2,7 +2,7 @@
  * @Author: JL HUANG
  * @Date: 2026-07-08 01:54:14
  * @LastEditors: JL HUANG
- * @LastEditTime: 2026-07-08 18:23:35
+ * @LastEditTime: 2026-07-08 18:55:46
  * @FilePath: \Wheel_Leg_Balance\README.md
  * @Description: 
  * Copyright (c) 2026 by JL HUANG, All Rights Reserved. 
@@ -17,7 +17,11 @@
 
 ![balance_gif1](assets/wheel_leg2.gif)
 
+运动展示1：
+
 ![balance_gif2](assets/运动抗干扰.gif)
+
+运动展示2：
 
 ![balance_gif3](assets/下台阶.gif)
 
